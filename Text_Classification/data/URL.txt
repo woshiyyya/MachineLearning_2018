@@ -1,0 +1,6 @@
+URL: 	https://pan.baidu.com/s/1XuEdhK2Al0_SHGX6tkzqfA
+PSW:	9mbo
+
+Contains:
+	train.json		1.93GB
+	test.json		245MB
